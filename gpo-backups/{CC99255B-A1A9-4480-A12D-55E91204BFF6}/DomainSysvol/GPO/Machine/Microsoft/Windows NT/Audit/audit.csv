@@ -1,0 +1,3 @@
+Nombre de equipo,Destino de directiva,Subcategoría,GUID de subcategoría,Configuración de inclusión,Configuración de exclusión,Valor de configuración
+,Sistema,Auditar administración de cuentas de usuario,{0cce9235-69ae-11d9-bed3-505054503030},Aciertos y errores,,3
+,Sistema,Auditar cambios de servicio de directorio,{0cce923c-69ae-11d9-bed3-505054503030},Aciertos,,1

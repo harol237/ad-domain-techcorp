@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Drives clsid="{8FDDCC1A-0C3C-43cd-A6B4-71A6DF20DA8C}"><Drive clsid="{935D1B74-9CB8-4e3c-9914-7DD559B7A417}" name="S:" status="S:" image="2" changed="2026-10-03 19:34:15" uid="{C6DE3715-EC0C-4D19-8629-2F7B50FBE5CC}"><Properties action="U" thisDrive="NOCHANGE" allDrives="NOCHANGE" userName="" path="\\DC-TECHCORP\Compartit" label="Compartit" persistent="1" useLetter="1" letter="S"/></Drive>
+	<Drive clsid="{935D1B74-9CB8-4e3c-9914-7DD559B7A417}" name="T:" status="T:" image="2" changed="2026-10-03 19:46:42" uid="{7D1776EC-6059-4EBB-B935-0B649F7059ED}" bypassErrors="1"><Properties action="U" thisDrive="NOCHANGE" allDrives="NOCHANGE" userName="" path="\\DC-TECHCORP\Sistemes$" label="Sistemes" persistent="1" useLetter="1" letter="T"/><Filters><FilterGroup bool="AND" not="0" name="TECHCORP\GG_Sistemes" sid="S-1-5-21-1324966535-3019697578-1592044877-1104" userContext="1" primaryGroup="0" localGroup="0"/></Filters></Drive>
+</Drives>
